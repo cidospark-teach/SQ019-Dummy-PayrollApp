@@ -1,0 +1,14 @@
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\bin\Debug\net6.0\Week2Task_Payroll.exe
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\bin\Debug\net6.0\Week2Task_Payroll.deps.json
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\bin\Debug\net6.0\Week2Task_Payroll.runtimeconfig.json
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\bin\Debug\net6.0\Week2Task_Payroll.dll
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\bin\Debug\net6.0\Week2Task_Payroll.pdb
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\obj\Debug\net6.0\Week2Task_Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\obj\Debug\net6.0\Week2Task_Payroll.AssemblyInfoInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\obj\Debug\net6.0\Week2Task_Payroll.AssemblyInfo.cs
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\obj\Debug\net6.0\Week2Task_Payroll.csproj.CoreCompileInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\obj\Debug\net6.0\Week2Task_Payroll.dll
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\obj\Debug\net6.0\refint\Week2Task_Payroll.dll
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\obj\Debug\net6.0\Week2Task_Payroll.pdb
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\obj\Debug\net6.0\Week2Task_Payroll.genruntimeconfig.cache
+C:\Users\hp Envy\Desktop\Sq019\Week2Task_Payroll\Week2Task_Payroll\obj\Debug\net6.0\ref\Week2Task_Payroll.dll
